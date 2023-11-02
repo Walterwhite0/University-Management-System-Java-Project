@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="University Management System">
+    <output-path>$PROJECT_DIR$/out/artifacts/University_Management_System</output-path>
+    <root id="root">
+      <element id="archive" name="University_Management_System.jar">
+        <element id="module-output" name="University Management System" />
+      </element>
+    </root>
+  </artifact>
+</component>
